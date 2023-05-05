@@ -1,0 +1,61 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+  <link rel="stylesheet" href = "order.css">
+ </head>
+
+<body>
+    <div class="bg-container1">
+        <nav class="navbar">
+            <h2 class="head">Home</h2>
+            <h2 class="head">Order</h2>
+            <h2 class="head">Food</h2>
+            <h2 class="head">Restaurant</h2>
+            <h2 class="head">Testimonials</h2>
+            <h2 class="head">Contact Us</h2>
+
+            <div class="icons-container">
+                <img class="icon" src="https://res.cloudinary.com/dt7gl2fio/image/upload/v1683224309/Call_jhcmyr.jpg" />
+                <img class="icon" src="https://res.cloudinary.com/dt7gl2fio/image/upload/v1683224309/Cart_joa4cl.jpg" />
+            </div>
+        </nav>
+
+        <div class="top-container">
+            <div class="card-container">
+                <h1 class="heading">LOREM IPSUM</h1>
+                <p class="paragraph">Lorem Ipsum has been the industry's standard dummy
+                    text ever since the 1500s, when an unknown printer took
+                    a galley of type and scrambled it to make a type specimen book.</p>
+            </div>
+        </div>
+    </div>
+
+    <div class="bg-container2">
+        <h1 class="heading1">Order Now</h1>
+        <div class="card-items">
+            <div class="card">
+                <img class="card-image" src="https://res.cloudinary.com/dt7gl2fio/image/upload/v1683181670/img4_php0qs.jpg" />
+                <h2 class="card-head">BURGER</h2>
+                <p class="card-para">Lorem Ipsum has been the<br /> industry's standard dummy text</p>
+            </div>
+
+            <div class="card">
+                <img class="card-image" src="https://res.cloudinary.com/dt7gl2fio/image/upload/v1683181661/img2_fxsxgu.jpg" />
+                <h2 class="card-head">PIZZA</h2>
+                <p class="card-para">Lorem Ipsum has been the<br /> industry's standard dummy text</p>
+            </div>
+
+            <div class="card">
+                <img class="card-image" src="https://res.cloudinary.com/dt7gl2fio/image/upload/v1683181670/img3_hm39fk.jpg" />
+                <h2 class="card-head">PASTA</h2>
+                <p class="card-para">Lorem Ipsum has been the<br /> industry's standard dummy text</p>
+            </div>
+        </div>
+        <div class="button-container">
+            <button class='button'>Order</button>
+        </div>
+    </div>
+</body>
+
+</html>
